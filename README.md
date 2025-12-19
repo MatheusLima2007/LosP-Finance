@@ -1,6 +1,6 @@
 ## HaxeL Finance — Sistema de Gestão Financeira Pessoal
 
-LosP Finance é uma plataforma web desenvolvida para ajudar usuários a controlar seus gastos, definir metas financeiras, acompanhar evolução mês a mês e visualizar insights de maneira clara e intuitiva.
+HaxeL Finance é uma plataforma web desenvolvida para ajudar usuários a controlar seus gastos, definir metas financeiras, acompanhar evolução mês a mês e visualizar insights de maneira clara e intuitiva.
 O projeto combina Front-end moderno com Back-end em Java, trazendo uma experiência completa, organizada e profissional.
 
 ## Objetivo do Projeto
